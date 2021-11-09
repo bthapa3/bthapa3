@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bthapa3
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React and ASP.NET
-- 💞️ I’m looking to collaborate on web developement internships.
+- 🌱 I’m currently learning Angular and Springboot.
 - 📫 How to reach me bthapa3@ramapo.edu
 
 <!---
