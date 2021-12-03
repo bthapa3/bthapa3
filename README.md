@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bthapa3
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Angular and Springboot.
-- 📫 How to reach me bthapa3@ramapo.edu
+- 📫 Reach me @ bthapa3@ramapo.edu
 - Portfolio @ https://thapabishal.com/
 
 <!---
