@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bthapa3
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and data science.
 - 🌱 I’m currently learning Angular and Springboot.
 - 📫 Reach me @ bthapa3@ramapo.edu
 - Portfolio @ https://thapabishal.com/
